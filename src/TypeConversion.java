@@ -1,5 +1,3 @@
-package variables;
-
 public class TypeConversion {
     public TypeConversion() {
     }

@@ -1,5 +1,3 @@
-package variables;
-
 public class BookTitle{
     public static void main(String[] args) {
         String bookTitle = "Harry Potter";

@@ -1,5 +1,3 @@
-package variables;
-
 public class Main {
     static void Mymethod() {
         System.out.println("This is me.");

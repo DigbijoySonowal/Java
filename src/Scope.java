@@ -1,5 +1,3 @@
-package variables;
-
 public class Scope {
     static int x = 5;
 
